@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  
 
 <!--
 **Jet-b/Jet-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Name: Jet
-Age: 16
-Hobby: Coding obviously
-Current project: I mean im trying to make an app lol
+Name: Jet  
+Age: 16  
+Hobby: Coding obviously  
+Current project: I mean im trying to make an app lol  
