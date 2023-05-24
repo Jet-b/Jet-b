@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Name: Jet
+Age: 16
+Hobby: Coding obviously
+Current project: I mean im trying to make an app lol
