@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 -->
 
 Name: Jonty Beglin  
-Age: 16  
+Age: 17 
 Hobby: Coding obviously  
-Current project: I mean im trying to make an app lol  
+Current project: Many, mainly focusing on Python and upgrading my coding skills
