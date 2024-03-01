@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 Name: Jonty Beglin  
-Age: 17 
+Age: 17
 Hobby: Coding obviously  
 Current project: Many, mainly focusing on Python and upgrading my coding skills
