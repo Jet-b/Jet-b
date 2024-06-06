@@ -1,21 +1,18 @@
-### Hi there 👋  
+### Hi there! 👋 Welcome to My GitHub Profile
 
-<!--
-Dont read this lol it has good ideas
-**Jet-b/Jet-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Jonty Beglin**, a 17-year-old with a passion for technology and a thirst for knowledge.
 
-Here are some ideas to get you started:
+🔭 **Currently Studying:**  
+At **Exeter Maths School**, I'm diving deep into the realms of **Mathematics, Further Mathematics, Computer Science,** and **Physics**. My academic pursuits are fueled by curiosity and a drive to solve complex problems, aided by the schools extended mathmatical and computer science based curriculum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Name: Jonty Beglin  
-Age: 17
-Hobby: Coding obviously  
-Current project: Many, mainly focusing on Python and upgrading my coding skills
+💡 **Hobbies and Interests:**  
+- **Programming:** Crafting innovative solutions and exploring new technologies.
+- **Learning:** Constantly expanding my knowledge and skills.
+- **Electronics:** Building and tinkering with electronic projects.
+- **Video Games:** Immersing myself in interactive worlds and gaining inspiration from multiple avenues.
+- **Kayaking:** Navigating waters and embracing the great outdoors.
+
+🚀 **Future Aspirations:**  
+I'm aiming to persue a **Degree Apprenticeship**, blending academic learning with practical experience in the industry. This path will allow me to contribute to real world projects while continuing my education.
+
+Thank you for visiting my profile. Let's connect and create something extraordinary together!
