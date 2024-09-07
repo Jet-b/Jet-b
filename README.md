@@ -1,18 +1,29 @@
-### Hi there! 👋 Welcome to My GitHub Profile
+## Hi there! 👋 Welcome to My GitHub Profile
 
 I'm **Jonty Beglin**, a 17-year-old with a passion for technology and a thirst for knowledge.
 
-🔭 **Currently Studying:**  
-At **Exeter Maths School**, I'm diving deep into the realms of **Mathematics, Further Mathematics, Computer Science,** and **Physics**. My academic pursuits are fueled by curiosity and a drive to solve complex problems, aided by the schools extended mathmatical and computer science based curriculum.
+---
 
-💡 **Hobbies and Interests:**  
-- **Programming:** Crafting innovative solutions and exploring new technologies.
+### 🔭 **Currently Studying:**  
+
+At **Exeter Maths School**, I'm diving deep into **Mathematics**, **Further Mathematics**, **Computer Science**, and **Physics** as **A-Levels**.
+
+Going <ins>**Even Deeper**</ins> with **Super-Curricular** projects such as with the **MET Office** and **Academics** at the **University of Exeter**. Currently working on researching and exploring **Procedural Generation**.
+
+---
+
+### 💡 **Hobbies and Interests:**  
+- **Programming:** Crafting innovative solutions and exploring the world of programming.
 - **Learning:** Constantly expanding my knowledge and skills.
 - **Electronics:** Building and tinkering with electronic projects.
-- **Video Games:** Immersing myself in interactive worlds and gaining inspiration from multiple avenues.
-- **Kayaking:** Navigating waters and embracing the great outdoors.
+- **Video Games:** Gaining new experiences and ideas from fictional worlds.
+- **Kayaking:** Relaxing pastime which can be enjoyed with others.
 
-🚀 **Future Aspirations:**  
-I'm aiming to persue a **Degree Apprenticeship**, blending academic learning with practical experience in the industry. This path will allow me to contribute to real world projects while continuing my education.
+---
 
-Thank you for visiting my profile. Let's connect and create something extraordinary together!
+### 🚀 **Future Aspirations:**  
+I'm aiming to pursue a **Degree Apprenticeship**, blending academic learning with practical experience in the industry. This path will allow me to contribute to real world projects while continuing my education, expanding my horizons.
+
+---
+
+Thank you for visiting my profile.
